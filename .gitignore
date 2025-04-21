@@ -1,4 +1,7 @@
 
 *.venv
 venv
-
+*/chroma_db
+pgvector_docker/pgvector_data
+.env
+.gitignore
